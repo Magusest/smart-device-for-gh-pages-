@@ -2441,8 +2441,7 @@ textarea {
 
   .intro {
     margin-top: -99px;
-    margin-bottom: 79px;
-    padding: 184px 50px 127px;
+    padding: 184px 50px 206px;
   }
 
   .intro__wrapper {
@@ -2685,7 +2684,7 @@ textarea {
   }
 
   .main__advantages {
-    padding: 51px 0 8px;
+    padding: 12px 0 8px;
   }
 
   .main__questions {
@@ -2697,8 +2696,7 @@ textarea {
     -ms-flex-pack: start;
     justify-content: flex-start;
     margin-top: -66px;
-    margin-bottom: 66px;
-    padding: 151px 26px 151px;
+    padding: 151px 26px 190px;
   }
 
   .intro__wrapper {
